@@ -1,6 +1,6 @@
 [book]
-authors = ["Owen White"]
+authors = ["Owen White; Badgineer; David Molony"]
 language = "en"
 multilingual = false
 src = "src"
-title = "TEST OF BOOK"
+title = "MP2 Documentation"
