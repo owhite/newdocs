@@ -1,4 +1,4 @@
 # newdocs.github.io
-testing document stuff
+This site is testing mdbook method of creating documentation
 
-view the book [here](https://owhite.github.io/newdocs.github.io/)
+view the book [here](https://owhite.github.io/newdocs/)
