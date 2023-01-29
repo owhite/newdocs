@@ -26,4 +26,4 @@ git branch -M main
 git commit -m "latest"
 
 # push to github pages
-git push -f https://github.com/owhite/newdocs.github.io.git main:gh-pages
+git push -f https://github.com/owhite/newdocs.git main:gh-pages
